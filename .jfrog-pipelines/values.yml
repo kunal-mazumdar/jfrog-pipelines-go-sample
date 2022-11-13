@@ -1,3 +1,3 @@
-repoPath: jfrog/jfrog-pipelines-go-Sample
-gitProvider: myGitHubIntegration
-artifactory: myArtifactoryIntegration
+repoPath: kunal-mazumdar/jfrog-pipelines-go-Sample
+gitProvider: mygithub
+artifactory: default_s_artifactory
