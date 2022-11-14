@@ -9,7 +9,7 @@ resources:
     configuration:
       path: {{ .Values.repoPath }}
       branches:
-        include: main
+        include: master
       gitProvider: {{ .Values.gitProvider }}
 
   # Build info for the published Go app
